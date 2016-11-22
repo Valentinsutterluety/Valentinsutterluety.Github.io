@@ -4,6 +4,10 @@
   background-color:yellow;
 }
 
+.left, .right{
+  min-height: 200px;
+}
+
 .left{
   width:30%;
   background-color:green;
